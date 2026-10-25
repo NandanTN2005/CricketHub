@@ -1,0 +1,24 @@
+
+# Compiled Java files
+*.class
+bin/
+build/
+
+# Eclipse workspace settings
+.metadata/
+.settings/
+
+# Temporary files and logs
+tmp/
+temp/
+logs/
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
+/build/
